@@ -1,0 +1,1 @@
+geth --datadir "c:\myEth" --nodiscover --rpc --rpcport "7545" --rpccorsdomain "*"
